@@ -1,0 +1,9 @@
+﻿N-gram,Validation,FE,SMOTE?,F1
+3,No Cross-Validation,TF-IDF,No SMOTE,0.2
+3,No Cross-Validation,TF-IDF,SMOTE,0.34
+3,No Cross-Validation,TF,No SMOTE,0.72
+3,No Cross-Validation,TF,SMOTE,0.54
+3,Cross-Validation,TF-IDF,No SMOTE,0.23
+3,Cross-Validation,TF-IDF,SMOTE,0.85
+3,Cross-Validation,TF,No SMOTE,0.6
+3,Cross-Validation,TF,SMOTE,0.79
